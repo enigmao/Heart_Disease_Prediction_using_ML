@@ -93,7 +93,7 @@ Key Python dependencies (see `requirements.txt` for full list):
 ---
 
 ## 🖼️ Screenshot
-(Add a screenshot of your web app UI here)
+<img width="775" height="943" alt="image" src="https://github.com/user-attachments/assets/4a744222-a952-4c85-80e4-99b4ed13ba30" />
 
 ---
 
